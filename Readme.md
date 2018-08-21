@@ -76,4 +76,8 @@ int cLength = 4;
 var result = triangleTypeController.Get(aLength, bLength, cLength)
 ```
 
+### Hidden Easter Egg
+
+If you know about this project, you will know the url to query for this easter egg :)
+
 © MikeDub - 2018
